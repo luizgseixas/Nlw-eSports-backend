@@ -13,7 +13,7 @@ bannerUrl
 id
 gameId
 name
-yearsPalying
+yearsPlaying
 discord
 weekDays
 hourStart
